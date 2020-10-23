@@ -1,4 +1,4 @@
-
+![ML image](Machine Learning Banner.jpg)
 # DATA 4319 - Statistical and Machine Learning
 ## Author: Jake Zhu
 ---
