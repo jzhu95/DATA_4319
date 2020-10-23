@@ -1,4 +1,4 @@
-![ML image](MLbanner.jpg)
+![ML banner](MLbanner.jpg)
 # DATA 4319 - Statistical and Machine Learning
 ## Author: Jake Zhu
 ---
@@ -38,3 +38,5 @@ This senior level data science course blends the predictive perspective of stati
  ## Prerequisite Programming Languages 
 - [Python](https://www.python.org/) versions 3.6 and higher 
 - [Julia](https://julialang.org/) versions 1.0 and higher
+
+![UHD banner](UHDbanner.jpg)
