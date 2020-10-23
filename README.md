@@ -2,7 +2,7 @@
 # DATA 4319 - Statistical and Machine Learning
 ## Author: Jake Zhu
 ---
-This repository presents a few of the components we have learned in our class taught by Dr. Randy Davila at University of Houston - Downtown. 
+This repository presents a few of the components we have learned in our class taught by Dr. Randy Davila at University of Houston - Downtown for the semester of Fall 2020. 
 
 ### Projects:
 The following topics are covered in this repository as part of the learning environment so far:
