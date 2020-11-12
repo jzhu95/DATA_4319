@@ -4,6 +4,10 @@
 ---
 This repository presents a few of the components we have learned in our class taught by Dr. Randy Davila at University of Houston - Downtown for the semester of Fall 2020. 
 
+A supervised machine learning algorithm (as opposed to an unsupervised machine learning algorithm) is one that relies on labeled input data to learn a function that produces an appropriate output when given new unlabeled data.
+
+An unsupervised machine learning algorithm makes use of input data without any labels —in other words, no teacher (label) telling the child (computer) when it is right or when it has made a mistake so that it can self-correct.
+
 ### Projects:
 The following topics are covered in this repository as part of the learning environment so far:
 - Classical Perceptron Learning (Supervised)
