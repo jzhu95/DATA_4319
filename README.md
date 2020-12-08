@@ -20,7 +20,7 @@ Using Julia
 - Gradient Descent with Applications to Linear Regression (Supervised)
 
 Using Python
-- Classical Perceptron Learning (Supervised)
+- Classical Perceptron Learning using scikit-learn (Supervised)
 - K-Nearest Neighbors (Supervised)
 - Linear Regression (Supervised)
 - Gradient Descent with Applications to Linear Regression (Supervised)
