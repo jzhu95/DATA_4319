@@ -12,10 +12,18 @@ Unlike supervised learning that tries to learn a function that will allow us to 
 
 ### Projects:
 The following topics are covered in this repository as part of the learning environment:
-- Classical Perceptron Learning using Julia (Supervised)
-- K-Nearest Neighbors using Julia (Supervised)
-- Linear Regression using Julia (Supervised)
-- Gradient Descent with Applications to Linear Regression using Julia (Supervised)
+
+Using Julia
+- Classical Perceptron Learning (Supervised)
+- K-Nearest Neighbors (Supervised)
+- Linear Regression (Supervised)
+- Gradient Descent with Applications to Linear Regression (Supervised)
+
+Using Python
+- Classical Perceptron Learning (Supervised)
+- K-Nearest Neighbors (Supervised)
+- Linear Regression (Supervised)
+- Gradient Descent with Applications to Linear Regression (Supervised)
 
 ### Course Description: 
 This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of  machine learning. Topics include,  but  are  not  limited  to: 
