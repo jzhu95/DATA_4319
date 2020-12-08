@@ -21,9 +21,6 @@ Using Julia
 
 Using Python
 - Classical Perceptron Learning using scikit-learn (Supervised)
-- K-Nearest Neighbors (Supervised)
-- Linear Regression (Supervised)
-- Gradient Descent with Applications to Linear Regression (Supervised)
 
 ### Course Description: 
 This senior level data science course blends the predictive perspective of statistical pattern recognition together with the algorithmic perspectives of  machine learning. Topics include,  but  are  not  limited  to: 
