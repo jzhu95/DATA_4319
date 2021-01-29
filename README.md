@@ -1,5 +1,5 @@
 ![ML banner](MLbanner.jpg)
-# DATA 4319 - Statistical and Machine Learning
+# Statistical and Machine Learning
 ## Author: Jake Zhu
 ---
 This repository presents a few of the components we have learned in our class taught by Dr. Randy Davila at University of Houston - Downtown for the semester of Fall 2020. 
